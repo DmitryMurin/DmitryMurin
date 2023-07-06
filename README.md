@@ -11,7 +11,7 @@
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge)
 
+## Контакты
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/дмитрий-мурин-a3842a26a/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/MurinDmitry)
