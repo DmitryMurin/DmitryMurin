@@ -2,6 +2,9 @@
 
 ## Я QA Engineer
 
+## Моё резюме
+[Сcылка на моё CV](https://drive.google.com/file/d/1fFsbxg3YMqOUZzd7UU3C-YBeVdcCPwby/view?usp=sharing)
+
 ## Инструменты
 
 ![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=Postman)
