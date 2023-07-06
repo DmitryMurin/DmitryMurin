@@ -16,6 +16,13 @@
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge)
 
+## Тестовая документация
+
++ [Postman collections](https://github.com/DmitryMurin/Postman.git)
++ [Checklists](https://github.com/DmitryMurin/Checklists.git)
++ [Test-Cases](https://github.com/DmitryMurin/Test-Cases.git)
++ [Bug-reports](https://github.com/DmitryMurin/Bug-reports.git)
+
 ## Контакты
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/дмитрий-мурин-a3842a26a/)
