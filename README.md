@@ -3,7 +3,7 @@
 ## Я QA Engineer
 
 ## Моё резюме
-[Сcылка на моё CV](https://drive.google.com/file/d/1fFsbxg3YMqOUZzd7UU3C-YBeVdcCPwby/view?usp=sharing)
+[Сcылка на моё CV](https://drive.google.com/file/d/1JtNRmk8YY6hrBYqNf-qzp7InwFWv1djE/view?usp=sharing)
 
 ## Инструменты
 
